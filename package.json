@@ -1,26 +1,27 @@
 {
-  "name": "pomelo",
-  "version": "1.1.9",
+  "name": "pomelo-cluster",
+  "version": "0.0.1",
   "private": false,
-  "homepage": "https://github.com/NetEase/pomelo",
+  "homepage": "https://github.com/py8765/pomelo-cluster",
   "repository": {
     "type": "git",
-    "url": "https://github.com/NetEase/pomelo.git"
+    "url": "https://github.com/py8765/pomelo-cluster.git"
   },
   "scripts": {
     "test": "grunt"
   },
   "bugs": {
-    "url": "https://github.com/NetEase/pomelo/issues"
+    "url": "https://github.com/py8765/pomelo-cluster/issues"
   },
   "licenses": [
     {
       "type": "MIT",
-      "url": "https://github.com/NetEase/pomelo#license"
+      "url": "https://github.com/py8765/pomelo-cluster#license"
     }
   ],
   "keywords": [
     "pomelo",
+    "cluster",
     "framework",
     "game",
     "web",
@@ -37,7 +38,6 @@
     "pomelo-loader": "0.0.6",
     "pomelo-rpc": "0.4.10",
     "pomelo-protocol": "0.1.6",
-    "pomelo-admin": "0.4.4",
     "pomelo-logger": "0.1.7",
     "pomelo-scheduler": "0.3.9",
     "ws": "0.4.25",
