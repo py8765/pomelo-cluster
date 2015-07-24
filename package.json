@@ -48,7 +48,7 @@
     "node-zookeeper-client": "0.2.2"
   },
   "bin": {
-    "pomelo": "./bin/pomelo"
+    "pomelo-cluster": "./bin/pomelo"
   },
   "devDependencies": {
     "should": "3.3.1",
